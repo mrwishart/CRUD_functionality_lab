@@ -67,6 +67,6 @@ class Property
 		results = db.exec_prepared('find_build', values)
 		return_array = results.map {|result| Property.new(result)}
 		db.close()
-		return return_array
+		return return_array.count==0 ? nil : return_array
 	end
 end
