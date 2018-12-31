@@ -1,6 +1,6 @@
 # CRUD Functionality Lab
 
-Week 3, Day 2 afternoon lab at CodeClan. Designed to enforced CRUD functionality to an SQL/Ruby program
+Week 3, Day 2 afternoon lab at CodeClan. Designed to enforced CRUD functionality to an SQL/Ruby program. Paired with Ross
 
 Original brief:
 
